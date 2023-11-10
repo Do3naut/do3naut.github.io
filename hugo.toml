@@ -1,6 +1,6 @@
 baseURL = "https://www.example.com"
 languageCode = "en-us"
-title = "My Digital Garden"
+title = "Do3naut's Site"
 theme = "hugo-digital-garden-theme"
 themesdir = "./themes/"
 copyright = "Nigalya Ponya ©"
@@ -8,7 +8,7 @@ copyright = "Nigalya Ponya ©"
 
 [params]
   name = "Hi"
-  description = "Red panda living in the eastern Himalayas."
+  description = "This is a work in progress started 11/9"
   initials = "TitleName"
   googleAnalytics = ""
 
